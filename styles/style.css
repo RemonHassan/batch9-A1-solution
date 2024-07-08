@@ -136,6 +136,41 @@ body{
     width: 349.16px;
     height: 464.65px;
 }
+/* place date time styles start here */
+.place-date-time-container{
+    width: 1320px;
+    height: 482px;
+    margin: 0 auto; 
+    border: 1px solid white;  
+    
+    background: linear-gradient(rgba(255, 0, 0, 0.1),
+    rgba(255, 0, 0, 0)); 
+    border-radius: 5px;
+    margin-bottom: 120px;
+}
+.place-date-time-container p{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+    margin: 100px 386px 214px 385px;
+    text-align: center;
+}
+.place-date-time-container-redColor{
+    color: rgb(255, 0, 0);
+}
+.button{
+    border-radius: 8px;
+    background: rgb(255, 0, 0); 
+    width: 167px;
+    height: 56px;  
+    margin: 0px 577px 110px 576px;
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+}
 /* holyday styles */
 .Holiday-section-container{
     width: 1320px;
