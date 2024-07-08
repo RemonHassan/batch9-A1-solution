@@ -343,8 +343,8 @@ body{
     width: 1320px;
     height: 616px;
     margin: 0 auto;  
-    margin-bottom: 120px;
     background-color: rgba(255, 0, 0, 0.05);
+    margin-bottom: 80px;
 }
 .subscribe-container{
     width: 896px;
