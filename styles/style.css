@@ -239,3 +239,60 @@ body{
     height: 100%;
     border: 1px dashed gray;
 }
+/* footer section design starts here */
+.footer{
+    width: 1600px;
+    height: 609px; 
+    margin: 0 auto;
+    background-color: rgb(7, 2, 17);  
+    padding: 120px;
+}
+.first-row-text{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.location{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+}
+.find-me{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.first-row-text-hr{
+    margin-bottom: 50px;
+    /* color: rgba(255, 255, 255, 0.15); */
+}
+.social-icons{
+    display: flex;
+    gap: 20px;
+    margin-left: 550px;
+}
+.social-icons img{
+    border: 1px dashed grey;
+}
+.social-icons-hr{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: rgba(255, 255, 255, 0.15);
+}
+.last-row-text{
+    display: flex;
+    justify-content: space-between
+}
+.reserved p{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
+.unsub p{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+}
